@@ -8,7 +8,7 @@ CHANNEL = "@YourGonnaWantThis"
 
 # Amazon product IDs (mock examples — you can expand this list)
 PRODUCT_IDS = [
-    "B08J5QJBN2", "B07FZ8S74R", "B09F3QG2KZ", "B08N5WRWNW", "B0B3CP98ZT"
+    "B08J5QJBN2", "B09V2FQGL9", "B0B6QKKB63", "B085XTS8G4", "B07XJ8C8F5"
 ]
 
 HOOKS = [
